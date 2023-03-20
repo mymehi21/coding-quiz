@@ -1,44 +1,44 @@
 
 var questions= [
     {
-        "question": "Q.1) What does HTML stand for?",
-        "option1": "Hyper Type Markup Language",
-        "option2": "Home Tool Markup Language",
-        "option3": "Hyper Link and Text Markup Language",
-        "option4": "Hyper Text Markup Language",
-        "answer": "Hyper Text Markup Language"
+        "question": "Q.1) What is the capital of Lebanon?",
+        "option1": "London",
+        "option2": "Bali",
+        "option3": "Beirut",
+        "option4": "Qatar",
+        "answer": "Beirut"
     },
     {
-        "question": "Q.2) What does CSS stand for?",
-        "option1": "Colorful Style Sheets",
-        "option2": "Computer Style Sheets",
-        "option3": "Creative Style Sheets",
-        "option4": "Cascading Style Sheets",
-        "answer": "Cascading Style Sheets"
+        "question": "Q.2) How many states are in the U.S?",
+        "option1": "50",
+        "option2": "51",
+        "option3": "52",
+        "option4": "49",
+        "answer": "52"
     },
     {
-        "question": "Q.3) Which HTML attribute is used to define inline styles?",
-        "option1": "Style",
-        "option2": "Font",
-        "option3": "Class",
-        "option4": "Styles",
-        "answer": "Style"
+        "question": "Q.3) what is 2 plus 2?",
+        "option1": "4",
+        "option2": "5",
+        "option3": "6",
+        "option4": "7",
+        "answer": "4"
     },
     {
-        "question": "Q.4) Which is the correct CSS syntax?",
-        "option1": "body: color=black;",
-        "option2": "{body: color=black;}",
-        "option3": "body{color:black;}",
-        "option4": "{body;color:black;}",
-        "answer": "body{color:black;}"
+        "question": "Q.4) what is the color of a tomato?",
+        "option1": "red",
+        "option2": "blue",
+        "option3": "black",
+        "option4": "white",
+        "answer": "red"
     },
     {
-        "question": "Q.5) What is the correct HTML tag for playing video files?",
-        "option1": "media",
-        "option2": "movie",
-        "option3": "video",
-        "option4": "mp4",
-        "answer": "video"
+        "question": "Q.5) How many players are on a field in a soccer game?",
+        "option1": "11",
+        "option2": "22",
+        "option3": "6",
+        "option4": "9",
+        "answer": "2"
     },
 ]
 
